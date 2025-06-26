@@ -1,19 +1,22 @@
+<h1 align="center">🧠 Ícaro Matos - Programador Prático</h1>
 
-  <h1>Bem-vindo ao meu perfil!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Programador+de+soluções+simples;Python+e+C+enthusiast;Menos+é+mais+✨" alt="Typing SVG" />
+</div>
 
-- 👋 Oi, Meu nome é Ícaro 😎
----
+***
 
-### Minhas Tecnologias
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  
-</p>
+## 🧩 Sobre Mim
 
-### Ferramentas que eu utilizo
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+```python
+class Programador:
+    def __init__(self):
+        self.nome = "Ícaro Matos"
+        self.foco = "Resolver problemas cotidianos"
+        self.filosofia = "Código simples > Código complexo"
+        self.ferramentas = ["Python", "C", "Lógica"]
+    
+    def criar_solucao(self, problema):
+        return f"Solução prática para: {problema}"
+
+eu = Programador()
