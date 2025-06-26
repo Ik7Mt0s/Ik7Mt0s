@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome ou Seu Apelido]! 👋
+# Olá, sou Ícaro Matos! 👋
 ---
 ### Sobre Mim
 Sou um(a) [Sua Profissão/Cargo, ex: Desenvolvedor(a) Fullstack, Estudante de Ciência da Computação, Designer UX/UI] apaixonado(a) por [Seu Principal Interesse em Tech, ex: desenvolvimento web, inteligência artificial, código aberto]. Adoro transformar ideias em realidade através do código e estou sempre em busca de novos desafios e aprendizados.
