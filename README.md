@@ -59,8 +59,10 @@ Sou estudante de tecnologia, apaixonado por resolver problemas de forma prática
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ik7Mt0s&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ik7Mt0s&layout=compact&theme=github_dark"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ik7Mt0s&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ik7Mt0s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ik7Mt0s&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
