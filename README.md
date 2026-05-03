@@ -18,12 +18,10 @@ Sou estudante de tecnologia, apaixonado por resolver problemas de forma prática
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
 </div>
 
 - 🐍 **Python** — lógica, scripts, automações  
-- 🔧 **C** — fundamentos, estruturas de controle, manipulação de dados  
 - ☕ **Java** — programação orientada a objetos, aplicações robustas
 - 🧠 **Lógica de programação** — pensamento computacional aplicado
 
