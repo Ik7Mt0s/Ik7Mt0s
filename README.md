@@ -62,7 +62,6 @@ Sou estudante de tecnologia, apaixonado por resolver problemas de forma prática
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ik7Mt0s&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ik7Mt0s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ik7Mt0s&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
